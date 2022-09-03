@@ -4,3 +4,4 @@ WindNET.7z filter=lfs diff=lfs merge=lfs -text
 Elvenar.7z filter=lfs diff=lfs merge=lfs -text
 hlmv.7z filter=lfs diff=lfs merge=lfs -text
 NemsTools.7z filter=lfs diff=lfs merge=lfs -text
+wally.7z filter=lfs diff=lfs merge=lfs -text
