@@ -7,3 +7,4 @@ NemsTools.7z filter=lfs diff=lfs merge=lfs -text
 wally.7z filter=lfs diff=lfs merge=lfs -text
 AwesomeBump.7z filter=lfs diff=lfs merge=lfs -text
 perfetto.7z filter=lfs diff=lfs merge=lfs -text
+avogadro.7z filter=lfs diff=lfs merge=lfs -text
