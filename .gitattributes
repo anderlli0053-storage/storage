@@ -14,4 +14,4 @@ AliWorkbench.7z filter=lfs diff=lfs merge=lfs -text
 md2-viewer.7z filter=lfs diff=lfs merge=lfs -text
 excel-regular-tool.7z filter=lfs diff=lfs merge=lfs -text
 css-bin.7z filter=lfs diff=lfs merge=lfs -text
-Tlauncher_2_86.7z filter=lfs diff=lfs merge=lfs -text
+# Tlauncher_2_86.7z filter=lfs diff=lfs merge=lfs -text
